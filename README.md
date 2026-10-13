@@ -8,6 +8,10 @@
   <a href="https://huggingface.co/chinnawat2424"><img src="https://img.shields.io/badge/Hugging%20Face-Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 </p>
 
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal: whoami, profile, projects and deployment" />
+</p>
+
 ---
 
 ## 👋 About Me
@@ -99,7 +103,7 @@ AI engineer working across **model development** and the **infrastructure that p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinnawat2424&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chinnawat2424&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnawat2424&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
